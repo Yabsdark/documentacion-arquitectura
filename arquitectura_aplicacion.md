@@ -1,4 +1,4 @@
-# Arquitectura de la Aplicación
+# Arquitectura Cliente-Servidor
 
 La arquitectura cliente-servidor es un modelo de diseño de software en el que las tareas y cargas de trabajo se dividen entre los proveedores de recursos o servicios, llamados servidores, y los solicitantes de servicios, llamados clientes.
 
